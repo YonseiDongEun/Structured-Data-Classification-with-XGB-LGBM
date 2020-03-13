@@ -5,7 +5,7 @@ Learn how to use Xgboost and LightGBM in Sturctured Data Classification task
 
 ## Data - Dacon Competition
 ### Info
-원자력 상태판단 대회
+원자력 상태판단 대회  
 task : Predict the classified status  
 https://dacon.io/competitions/official/235551/data/
 
